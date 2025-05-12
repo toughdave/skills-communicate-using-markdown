@@ -7,5 +7,5 @@ This message is to test
 
 ```javascript
 var one = one
-var two - 2
+var two = 2
 ```
