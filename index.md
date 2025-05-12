@@ -9,3 +9,5 @@ This message is to test
 var one = one
 var two = 2
 ```
+
+![Link to Yaktocat image](https://octodex.github.com/images/yaktocat.png)
